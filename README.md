@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ricky J. Sparks
 
-<!--
-**rickyjames1750/rickyjames1750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects in machine learning, scientific visualization, and Java software design.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Scientific visualization
+
+Investigating how error bars, distributional summaries, and hypothetical outcome plots communicate uncertainty in scientific data.
+
+[Scientific visualization project](https://github.com/rickyjames1750/Improving-Uncertainty-Communication-in-Scientific-Visualization)
+
+### JSettlers2 — Team contribution
+
+Contributed an initial-placement phase enum and transition helpers to the class team’s Java fork. This infrastructure-first step toward a State-pattern migration was merged in PR #93 on May 7, 2026.
+
+[Class team fork](https://github.com/evanalba/JSettlers2) · [Contribution: PR #93](https://github.com/evanalba/JSettlers2/pull/93) · [My fork](https://github.com/rickyjames1750/JSettlers2)
+
+The class team’s repository is a fork of [jdmonin/JSettlers2](https://github.com/jdmonin/JSettlers2). Credit belongs to the upstream authors, the JSettlers Development Team, and the class team; their contributions and licenses are preserved in my fork.
+
+### Machine learning
+
+Projects exploring credit-card fraud detection, image classification, reinforcement learning, and customer segmentation.
+
+[Credit-card fraud detection](https://github.com/rickyjames1750/Credit-Card-Fraud-Detection) · [All repositories](https://github.com/rickyjames1750?tab=repositories)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rickyjsparks/)
